@@ -146,7 +146,7 @@ public class MarkdownAys {
             }
         }
         System.out.printf(mapList.toString());
-        System.out.println("华丽的分割线---------------------------------");
+        System.out.println("华丽的分割线----------------------------------");
         //遍历list
         for (Map<Object,Object> m : mapList){
             for (Object v : m.keySet()){
